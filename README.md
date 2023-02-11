@@ -1,6 +1,5 @@
-<div>
+
   <img src="https://user-images.githubusercontent.com/69850751/175876062-f252cc1b-bd44-46b3-9ddb-a7692b2eede4.png"     alt="">
-</div>
 # AirBnB_clone 
  ## Description
   A simple clone of the airBnB website project, it will contain some of the features of the original AirBnB project and will be deployed on the sever it will contain
